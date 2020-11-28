@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Icm Aplication</string>
+
+    <string-array name="sexo">
+        <item>Feminino</item>
+        <item>Masculino</item>
+        <item>Não informar</item>
+
+    </string-array>
+</resources>
