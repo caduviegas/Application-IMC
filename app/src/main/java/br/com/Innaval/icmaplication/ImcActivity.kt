@@ -34,7 +34,7 @@ class ImcActivity : AppCompatActivity() {
                 val df = DecimalFormat("#")
                 df.roundingMode = RoundingMode.CEILING
 
-                val resultadoImc = "Seu Imc é : " + df.format(imc) + "Kg/m²"
+                val resultadoImc = "Seu Magnifico Imc é : " + df.format(imc) + "Kg/m²"
                 textViewResultado.text =  resultadoImc
 
             }
